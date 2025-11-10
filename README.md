@@ -5,4 +5,4 @@ My direct idea was to simply install an additional on/off-switch and disable the
 
 I made an electrical schematic in order to help anyone else having similar ideas. See electrical schematic uploaded.
 
-The electrical schematic .qet-file has been created with QElectroTech V 0.90 ([https://qelectrotech.org/]([url](https://qelectrotech.org/))).
+The electrical schematic .qet-file has been created with QElectroTech V 0.90 ([https://qelectrotech.org/](https://qelectrotech.org/)).
